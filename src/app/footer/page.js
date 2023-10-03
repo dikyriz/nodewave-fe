@@ -23,19 +23,19 @@ export default function Footer() {
       </div>
       <div className="flex gap-5 mt-5 xl:mt-7">
         <div>
-          <Image src="/assets/icons/sos-fb.svg" width={30} height={30} />
+          <Image src="/assets/icons/sos_fb.svg" width={30} height={30} />
         </div>
         <div>
-          <Image src="/assets/icons/sos-tw.svg" width={30} height={30} />
+          <Image src="/assets/icons/sos_tw.svg" width={30} height={30} />
         </div>
         <div>
-          <Image src="/assets/icons/sos-yt.svg" width={30} height={30} />
+          <Image src="/assets/icons/sos_yt.svg" width={30} height={30} />
         </div>
         <div>
-          <Image src="/assets/icons/sos-lk.svg" width={30} height={30} />
+          <Image src="/assets/icons/sos_lk.svg" width={30} height={30} />
         </div>
         <div>
-          <Image src="/assets/icons/sos-ig.svg" width={30} height={30} />
+          <Image src="/assets/icons/sos_ig.svg" width={30} height={30} />
         </div>
       </div>
     </footer>
